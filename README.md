@@ -23,6 +23,6 @@ Welcome to the Laptop Online Store repository! This project is a full-stack web 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/laptop-online-store.git
+   git clone https://github.com/Abdull-Haseeb/Laptop-Online-Store.git
    cd laptop-online-store
    ```
